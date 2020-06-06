@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+/* font-family: 'Cardo', serif; */
+
+
+
+.nav-style{
+    background-color: white;
+    z-index: 1;
+}
+ 
+.nav-style:hover .contact-form h1 {
+    visibility: hidden !important;
+   
+
+} 
+
+.navbara a ,.dropbtna{
+    color: black !important;
+    
+}
+  
+
+.contact-form .label-my{
+    color: black !important;
+}
+
+
+.message-area  {
+    height: 200px !important;
+
+}
+
+
+.contact-form h1,p{
+    font-family: 'Cardo', serif;
+    
+}
+
+
+.nav-style ,.columna{
+    z-index: 1 !important;
+}
+
+
+.list2 ul li{
+    color:black !important;
+}
+
+/* .contact-form {
+  
+   
+    
+} */
+
+ .contact-form {
+  z-index: 0;
+
+}
+
+.open {
+color: black !important; 
+}

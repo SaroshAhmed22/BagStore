@@ -1,0 +1,34 @@
+
+
+/* font-family: 'Roboto', sans-serif; */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/* font-family: 'Roboto', sans-serif; */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cardo&display=swap');
+/* font-family: 'Cardo', serif; */
+:root{ --main-color: #e74c3c; }
+
+
+
+.latest{
+    font-family: 'Cardo', serif;
+    font-size: 34px;
+    
+
+}
+
+
+.heading{
+    font-family: 'Cardo', serif;
+
+}
+  .para{
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+  }
+
+
